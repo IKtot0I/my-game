@@ -1,5 +1,5 @@
 from pygame import *
-
+#faf
 window = display.set_mode((700,500))
 BLUE = (200,255,255)
 
